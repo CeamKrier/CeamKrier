@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://preview.redd.it/jajha9v4tt951.jpg?width=960&crop=smart&auto=webp&s=e87ef2a9b2a502cb8ecd3b9cb0743122bfd7cc30" />
 
 <!--
 **CeamKrier/CeamKrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
